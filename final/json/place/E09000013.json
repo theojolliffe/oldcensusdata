@@ -371,6 +371,154 @@
         }
       }
     },
+    "household": {
+      "perc": {
+        "2001": {
+          "CohabitNKids": 9.46,
+          "CohabitWKids": 2.01,
+          "LoneNKids": 3.84,
+          "LoneWKids": 8.36,
+          "MarriedNKids": 12.66,
+          "MarriedWKids": 10.77,
+          "MultiOther": 12.05,
+          "MultiStudents": 0.57,
+          "OnePerson": 40.28
+        },
+        "2011": {
+          "CohabitNKids": 9.41,
+          "CohabitWKids": 1.92,
+          "LoneNKids": 4.45,
+          "LoneWKids": 8.34,
+          "MarriedNKids": 13.31,
+          "MarriedWKids": 12.25,
+          "MultiOther": 11.49,
+          "MultiStudents": 1.42,
+          "OnePerson": 37.41
+        },
+        "change": {
+          "CohabitNKids": -0.05,
+          "CohabitWKids": -0.09,
+          "LoneNKids": 0.61,
+          "LoneWKids": -0.02,
+          "MarriedNKids": 0.65,
+          "MarriedWKids": 1.48,
+          "MultiOther": -0.56,
+          "MultiStudents": 0.85,
+          "OnePerson": -2.87
+        }
+      },
+      "perc_rank": {
+        "2001": {
+          "CohabitNKids": 2.0,
+          "CohabitWKids": 326.0,
+          "LoneNKids": 48.0,
+          "LoneWKids": 54.0,
+          "MarriedNKids": 326.0,
+          "MarriedWKids": 326.0,
+          "MultiOther": 1.0,
+          "MultiStudents": 53.0,
+          "OnePerson": 7.0
+        },
+        "2011": {
+          "CohabitNKids": 7.0,
+          "CohabitWKids": 328.0,
+          "LoneNKids": 43.0,
+          "LoneWKids": 100.0,
+          "MarriedNKids": 325.0,
+          "MarriedWKids": 311.0,
+          "MultiOther": 5.0,
+          "MultiStudents": 37.0,
+          "OnePerson": 10.0
+        },
+        "change": {
+          "CohabitNKids": 316.0,
+          "CohabitWKids": 327.0,
+          "LoneNKids": 95.0,
+          "LoneWKids": 301.0,
+          "MarriedNKids": 5.0,
+          "MarriedWKids": 11.0,
+          "MultiOther": 325.0,
+          "MultiStudents": 15.0,
+          "OnePerson": 306.0
+        }
+      },
+      "value": {
+        "2001": {
+          "CohabitNKids": 7134.0,
+          "CohabitWKids": 1515.0,
+          "LoneNKids": 2899.0,
+          "LoneWKids": 6308.0,
+          "MarriedNKids": 9551.0,
+          "MarriedWKids": 8126.0,
+          "MultiOther": 9090.0,
+          "MultiStudents": 430.0,
+          "OnePerson": 30385.0,
+          "all": 75438.0
+        },
+        "2011": {
+          "CohabitNKids": 7586.0,
+          "CohabitWKids": 1546.0,
+          "LoneNKids": 3589.0,
+          "LoneWKids": 6719.0,
+          "MarriedNKids": 10726.0,
+          "MarriedWKids": 9870.0,
+          "MultiOther": 9263.0,
+          "MultiStudents": 1143.0,
+          "OnePerson": 30148.0,
+          "all": 80590.0
+        },
+        "change": {
+          "CohabitNKids": 6.34,
+          "CohabitWKids": 2.05,
+          "LoneNKids": 23.8,
+          "LoneWKids": 6.52,
+          "MarriedNKids": 12.3,
+          "MarriedWKids": 21.46,
+          "MultiOther": 1.9,
+          "MultiStudents": 165.81,
+          "OnePerson": -0.78,
+          "all": 6.83
+        }
+      },
+      "value_rank": {
+        "2001": {
+          "CohabitNKids": 29.0,
+          "CohabitWKids": 205.0,
+          "LoneNKids": 87.0,
+          "LoneWKids": 82.0,
+          "MarriedNKids": 294.0,
+          "MarriedWKids": 224.0,
+          "MultiOther": 4.0,
+          "MultiStudents": 56.0,
+          "OnePerson": 62.0,
+          "all": 96.0
+        },
+        "2011": {
+          "CohabitNKids": 50.0,
+          "CohabitWKids": 278.0,
+          "LoneNKids": 83.0,
+          "LoneWKids": 94.0,
+          "MarriedNKids": 280.0,
+          "MarriedWKids": 146.0,
+          "MultiOther": 11.0,
+          "MultiStudents": 34.0,
+          "OnePerson": 69.0,
+          "all": 93.0
+        },
+        "change": {
+          "CohabitNKids": 313.0,
+          "CohabitWKids": 330.0,
+          "LoneNKids": 175.0,
+          "LoneWKids": 300.0,
+          "MarriedNKids": 9.0,
+          "MarriedWKids": 7.0,
+          "MultiOther": 278.0,
+          "MultiStudents": 69.0,
+          "OnePerson": 306.0,
+          "all": 191.0
+        }
+      }
+    },
     "ethnicity": {
       "perc": {
         "2001": {
